@@ -9,7 +9,7 @@ import android.util.Log;
 
 public class NetworkUtils {
     public static final String BASE_URL="https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=";
-    public static final String API_KEY="fb7988012cf648c8970290ae96431623";
+    public static final String API_KEY="";
 
     public static String getUrl()
     {
